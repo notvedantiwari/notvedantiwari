@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @notvedantiwari
 - 👀 I’m interested in Maths & Algorithms
 - 🌱 I’m currently learning Maths & Algorithms
-- 📫 How to reach me ...
+- 📫 How to reach me ..........
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+- ⚡ Fun fact: Everything(?)
 
 <!---
 notvedantiwari/notvedantiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
